@@ -1,11 +1,5 @@
-## CRAN Task View: Hydrological Data and Modeling
+## Courses for improve hydrologyst skills
 
-|                 |                                             |
-| --------------- | ------------------------------------------- |
-| **Maintainer:** | Sam Albers, Sam Zipper, Ilaria Prosdocimi   |
-| **Contact:**    | sam.albers at gmail.com                     |
-| **Version:**    | 2021-10-13                                  |
-| **URL:**        | <https://CRAN.R-project.org/view=Hydrology> |
 
 <div>
 
@@ -291,123 +285,14 @@ The [Environmetrics](Environmetrics.html): Task View gives an overview of packag
 
   - [SPEI](http://cran.rstudio.com/web/packages/SPEI/index.html): A set of functions for computing potential evapotranspiration and several widely used drought indices including the Standardized Precipitation-Evapotranspiration Index (SPEI).
 
+|                 |                                             |
+| --------------- | ------------------------------------------- |
+| **Maintainer:** | Sam Albers, Sam Zipper, Ilaria Prosdocimi   |
+| **Contact:**    | sam.albers at gmail.com                     |
+| **Version:**    | 2021-10-13                                  |
+| **URL:**        | <https://CRAN.R-project.org/view=Hydrology> |
+ 
+ 
+ 
 </div>
-
-### CRAN packages:
-
-  - [airGR](http://cran.rstudio.com/web/packages/airGR/index.html)
-  - [airGRdatassim](http://cran.rstudio.com/web/packages/airGRdatassim/index.html)
-  - [airGRteaching](http://cran.rstudio.com/web/packages/airGRteaching/index.html)
-  - [AWAPer](http://cran.rstudio.com/web/packages/AWAPer/index.html)
-  - [baseflow](http://cran.rstudio.com/web/packages/baseflow/index.html)
-  - [berryFunctions](http://cran.rstudio.com/web/packages/berryFunctions/index.html)
-  - [bigleaf](http://cran.rstudio.com/web/packages/bigleaf/index.html)
-  - [biotic](http://cran.rstudio.com/web/packages/biotic/index.html)
-  - [boussinesq](http://cran.rstudio.com/web/packages/boussinesq/index.html)
-  - [CityWaterBalance](http://cran.rstudio.com/web/packages/CityWaterBalance/index.html)
-  - [clifro](http://cran.rstudio.com/web/packages/clifro/index.html)
-  - [climate](http://cran.rstudio.com/web/packages/climate/index.html)
-  - [climatol](http://cran.rstudio.com/web/packages/climatol/index.html)
-  - [climdex.pcic](http://cran.rstudio.com/web/packages/climdex.pcic/index.html)
-  - [CoSMoS](http://cran.rstudio.com/web/packages/CoSMoS/index.html)
-  - [dataRetrieval](http://cran.rstudio.com/web/packages/dataRetrieval/index.html)
-  - [dynatopmodel](http://cran.rstudio.com/web/packages/dynatopmodel/index.html)
-  - [echor](http://cran.rstudio.com/web/packages/echor/index.html)
-  - [Ecohydmod](http://cran.rstudio.com/web/packages/Ecohydmod/index.html)
-  - [EcoHydRology](http://cran.rstudio.com/web/packages/EcoHydRology/index.html) (core)
-  - [ecoval](http://cran.rstudio.com/web/packages/ecoval/index.html)
-  - [EGRET](http://cran.rstudio.com/web/packages/EGRET/index.html)
-  - [EGRETci](http://cran.rstudio.com/web/packages/EGRETci/index.html)
-  - [Evapotranspiration](http://cran.rstudio.com/web/packages/Evapotranspiration/index.html)
-  - [FAdist](http://cran.rstudio.com/web/packages/FAdist/index.html)
-  - [fasstr](http://cran.rstudio.com/web/packages/fasstr/index.html)
-  - [FedData](http://cran.rstudio.com/web/packages/FedData/index.html)
-  - [FlowScreen](http://cran.rstudio.com/web/packages/FlowScreen/index.html)
-  - [geoknife](http://cran.rstudio.com/web/packages/geoknife/index.html)
-  - [geotopbricks](http://cran.rstudio.com/web/packages/geotopbricks/index.html)
-  - [getMet](http://cran.rstudio.com/web/packages/getMet/index.html)
-  - [GSODR](http://cran.rstudio.com/web/packages/GSODR/index.html)
-  - [GWSDAT](http://cran.rstudio.com/web/packages/GWSDAT/index.html)
-  - [HBV.IANIGLA](http://cran.rstudio.com/web/packages/HBV.IANIGLA/index.html)
-  - [hddtools](http://cran.rstudio.com/web/packages/hddtools/index.html)
-  - [humidity](http://cran.rstudio.com/web/packages/humidity/index.html)
-  - [hydroApps](http://cran.rstudio.com/web/packages/hydroApps/index.html)
-  - [hydrogeo](http://cran.rstudio.com/web/packages/hydrogeo/index.html)
-  - [hydroGOF](http://cran.rstudio.com/web/packages/hydroGOF/index.html) (core)
-  - [HydroMe](http://cran.rstudio.com/web/packages/HydroMe/index.html)
-  - [hydropeak](http://cran.rstudio.com/web/packages/hydropeak/index.html)
-  - [hydroPSO](http://cran.rstudio.com/web/packages/hydroPSO/index.html)
-  - [hydroscoper](http://cran.rstudio.com/web/packages/hydroscoper/index.html)
-  - [hydrostats](http://cran.rstudio.com/web/packages/hydrostats/index.html)
-  - [hydrotoolbox](http://cran.rstudio.com/web/packages/hydrotoolbox/index.html)
-  - [hydroTSM](http://cran.rstudio.com/web/packages/hydroTSM/index.html) (core)
-  - [hyfo](http://cran.rstudio.com/web/packages/hyfo/index.html)
-  - [kitagawa](http://cran.rstudio.com/web/packages/kitagawa/index.html)
-  - [kiwisR](http://cran.rstudio.com/web/packages/kiwisR/index.html)
-  - [kwb.hantush](http://cran.rstudio.com/web/packages/kwb.hantush/index.html)
-  - [lakemorpho](http://cran.rstudio.com/web/packages/lakemorpho/index.html)
-  - [lfstat](http://cran.rstudio.com/web/packages/lfstat/index.html)
-  - [LPM](http://cran.rstudio.com/web/packages/LPM/index.html)
-  - [lulcc](http://cran.rstudio.com/web/packages/lulcc/index.html)
-  - [LWFBrook90R](http://cran.rstudio.com/web/packages/LWFBrook90R/index.html)
-  - [MBC](http://cran.rstudio.com/web/packages/MBC/index.html)
-  - [meteo](http://cran.rstudio.com/web/packages/meteo/index.html)
-  - [meteoland](http://cran.rstudio.com/web/packages/meteoland/index.html)
-  - [metScanR](http://cran.rstudio.com/web/packages/metScanR/index.html)
-  - [MODISTools](http://cran.rstudio.com/web/packages/MODISTools/index.html)
-  - [MODIStsp](http://cran.rstudio.com/web/packages/MODIStsp/index.html)
-  - [musica](http://cran.rstudio.com/web/packages/musica/index.html)
-  - [nasapower](http://cran.rstudio.com/web/packages/nasapower/index.html)
-  - [nhdplusTools](http://cran.rstudio.com/web/packages/nhdplusTools/index.html)
-  - [nhdR](http://cran.rstudio.com/web/packages/nhdR/index.html)
-  - [nsRFA](http://cran.rstudio.com/web/packages/nsRFA/index.html)
-  - [openair](http://cran.rstudio.com/web/packages/openair/index.html)
-  - [prism](http://cran.rstudio.com/web/packages/prism/index.html)
-  - [qmap](http://cran.rstudio.com/web/packages/qmap/index.html)
-  - [RavenR](http://cran.rstudio.com/web/packages/RavenR/index.html)
-  - [rdwd](http://cran.rstudio.com/web/packages/rdwd/index.html)
-  - [reservoir](http://cran.rstudio.com/web/packages/reservoir/index.html)
-  - [RHMS](http://cran.rstudio.com/web/packages/RHMS/index.html)
-  - [RMAWGEN](http://cran.rstudio.com/web/packages/RMAWGEN/index.html)
-  - [RNCEP](http://cran.rstudio.com/web/packages/RNCEP/index.html)
-  - [rnoaa](http://cran.rstudio.com/web/packages/rnoaa/index.html)
-  - [RNRCS](http://cran.rstudio.com/web/packages/RNRCS/index.html)
-  - [rnrfa](http://cran.rstudio.com/web/packages/rnrfa/index.html)
-  - [rpdo](http://cran.rstudio.com/web/packages/rpdo/index.html)
-  - [RSAlgaeR](http://cran.rstudio.com/web/packages/RSAlgaeR/index.html)
-  - [rsoi](http://cran.rstudio.com/web/packages/rsoi/index.html)
-  - [rtop](http://cran.rstudio.com/web/packages/rtop/index.html)
-  - [rwunderground](http://cran.rstudio.com/web/packages/rwunderground/index.html)
-  - [SCI](http://cran.rstudio.com/web/packages/SCI/index.html)
-  - [smapr](http://cran.rstudio.com/web/packages/smapr/index.html)
-  - [soilwater](http://cran.rstudio.com/web/packages/soilwater/index.html)
-  - [SPEI](http://cran.rstudio.com/web/packages/SPEI/index.html)
-  - [stationaRy](http://cran.rstudio.com/web/packages/stationaRy/index.html)
-  - [streamDepletr](http://cran.rstudio.com/web/packages/streamDepletr/index.html)
-  - [swmmr](http://cran.rstudio.com/web/packages/swmmr/index.html)
-  - [synthesis](http://cran.rstudio.com/web/packages/synthesis/index.html)
-  - [telemac](http://cran.rstudio.com/web/packages/telemac/index.html)
-  - [tidyhydat](http://cran.rstudio.com/web/packages/tidyhydat/index.html)
-  - [topmodel](http://cran.rstudio.com/web/packages/topmodel/index.html)
-  - [TUWmodel](http://cran.rstudio.com/web/packages/TUWmodel/index.html)
-  - [washdata](http://cran.rstudio.com/web/packages/washdata/index.html)
-  - [water](http://cran.rstudio.com/web/packages/water/index.html)
-  - [waterData](http://cran.rstudio.com/web/packages/waterData/index.html)
-  - [Watersheds](http://cran.rstudio.com/web/packages/Watersheds/index.html)
-  - [worldmet](http://cran.rstudio.com/web/packages/worldmet/index.html)
-  - [wql](http://cran.rstudio.com/web/packages/wql/index.html)
-  - [WRSS](http://cran.rstudio.com/web/packages/WRSS/index.html)
-  - [WRTDStidal](http://cran.rstudio.com/web/packages/WRTDStidal/index.html)
-
-### Related links:
-
-  - CRAN Task View: [Spatial](Spatial.html)
-  - CRAN Task View: [ReproducibleResearch](ReproducibleResearch.html)
-  - CRAN Task View: [Environmetrics](Environmetrics.html)
-  - CRAN Task View: [ExtremeValue](ExtremeValue.html)
-  - [rOpenSci MapTools Listing](https://github.com/ropensci/maptools)
-  - [rOpenSci Open Data Listing](https://github.com/ropensci/opendata)
-  - [RHydro project](https://r-forge.r-project.org/R/?group_id=411)
-  - [Riccardo Rigon blog post about R resources for hydrologists](https://abouthydrology.blogspot.com/2012/08/r-resources-for-hydrologists.html)
-  - [USGS-R community](https://owi.usgs.gov/R/)
-  - [WaterProgramming blog post about data retrieval and statistical analysis in R](https://waterprogramming.wordpress.com/2019/07/08/packages-for-hydrological-data-retrieval-and-statistical-analysis/)
+ 
