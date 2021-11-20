@@ -15,7 +15,7 @@ Tha main topics that focus are:
 - Geostatistics.
 - Database manage.
 
- Based on [CRAN Task View: Hydrological Data and Modeling] (https://github.com/ropensci/Hydrology).
+ Based on [CRAN Task View: Hydrological Data and Modeling](https://github.com/ropensci/Hydrology).
   
 This Task View contains information about packages broadly relevant to *hydrology* , defined as the movement, distribution and quality of water and water resources over a broad spatial scale of landscapes. Packages are broadly grouped according to their function; however, many have functionality that spans multiple categories. We also highlight other, existing resources that have related functions - for example, statistical analysis or spatial data processing. See also [Riccardo Rigon’s excellent list](https://abouthydrology.blogspot.com/2012/08/r-resources-for-hydrologists.html) of hydrology-related R tools and resources. Some Python related resources can be found [here](https://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html) and [here](https://github.com/raoulcollenteur/Python-Hydrology-Tools)
 
