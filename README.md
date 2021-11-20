@@ -11,7 +11,7 @@ This personal repository is a compiled of courses and relevant information that 
 Based on [CRAN Task View: Hydrological Data and Modeling](https://github.com/ropensci/Hydrology).
 See also [Riccardo Rigon’s excellent list](https://abouthydrology.blogspot.com/2012/08/r-resources-for-hydrologists.html) of hydrology-related R tools and resources. Some Python related resources can be found [here](https://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html) and [here](https://github.com/raoulcollenteur/Python-Hydrology-Tools)
 
-If you have any comments or suggestions for additions or improvements for this Task View, go to GitHub and [submit an issue](https://github.com/ropensci/Hydrology/issues) , or make some changes and [submit a pull request](https://github.com/ropensci/Hydrology/pulls) . If you can’t contribute on GitHub, [send Sam Albers an email](mailto:sam.albers@gmail.com) . If you have an issue with one of the packages discussed below, please contact the maintainer of that package.
+If you have any comments or suggestions for additions or improvements for this Task View, go to GitHub and [submit an issue](https://github.com/caemillan/Courses/issues) , or make some changes and [submit a pull request](https://github.com/caemillan/Courses/pulls) . If you can’t contribute on GitHub, [send Carlos Millan an email](mailto:cmillanarancibia@gmail.com) .  If you have another consideration be free to send me
 
  ## Courses to begin with Python
  
