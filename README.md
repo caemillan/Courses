@@ -11,22 +11,20 @@ This personal repository is a compiled of courses and relevant information that 
 Based on [CRAN Task View: Hydrological Data and Modeling](https://github.com/ropensci/Hydrology).
 See also [Riccardo Rigon’s excellent list](https://abouthydrology.blogspot.com/2012/08/r-resources-for-hydrologists.html) of hydrology-related R tools and resources. Some Python related resources can be found [here](https://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html) and [here](https://github.com/raoulcollenteur/Python-Hydrology-Tools)
 
-If you have any comments or suggestions for additions or improvements for this Task View, go to GitHub and [submit an issue](https://github.com/caemillan/Courses/issues) , or make some changes and [submit a pull request](https://github.com/caemillan/Courses/pulls) . If you can’t contribute on GitHub, [send Carlos Millan an email](mailto:cmillanarancibia@gmail.com) .  If you have another consideration be free to send me
+If you have any comments or suggestions for additions or improvements for this Task View, go to GitHub and [submit an issue](https://github.com/caemillan/Courses/issues) , or make some changes and [submit a pull request](https://github.com/caemillan/Courses/pulls) . If you can’t contribute on GitHub, [send Carlos Millan an email](mailto:cmillanarancibia@gmail.com) .  If you have another consideration be free to comment it.
 
  ## Courses to begin with Python
  
  - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/): The Geo-Python course teaches you the basic concepts of programming and scientific data analysis using the Python programming language in a format that is easy to learn and understand (no previous programming experience required). Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python. Geo-Python is organized by the [Department of Geosciences and Geography](https://www.helsinki.fi/en/faculty-science/faculty/geosciences-and-geography) at the University of Helsinki.
  
+ - [GeoPython-AutoGIS](https://automating-gis-processes.github.io/2016/index.html): Automating GIS-processes -course teaches you how to do different GIS-related tasks in Python programming language. Each lesson is a tutorial with specific topic(s) where the aim is to learn how to solve common GIS-related problems and tasks using Python tools. We are using only publicly available data which can be used and downloaded by anyone anywhere. We also provide a computing environment which allows you to instantly start programming and trying out the materials yourself, directly in your browser (no installations needed).
  
 ## Data Retrieval
 
 **Hydrological data sources (surface water/groundwater quantity and quality)**
 
   - [AWAPer](http://cran.rstudio.com/web/packages/AWAPer/index.html): AWAPer allows efficient extraction of daily catchment average precipitation, Tmin, Tmax, vapour pressure, solar radiation and then estimation of areal potential evaporation (Morton’s) for anywhere in Australia. Spatial measures are also derived (eg spatial daily variance). For technical details see Peterson et al. (2019).
-
-  - [dataRetrieval](http://cran.rstudio.com/web/packages/dataRetrieval/index.html): Collection of functions to help retrieve U.S. Geological Survey (USGS) and U.S. Environmental Protection Agency (EPA) water quality and hydrology data from web services.
-
-  
+ 
 **Meteorological data (precipitation, radiation, temperature, etc - including both measurements and reanalysis)**
 
   - [climate](http://cran.rstudio.com/web/packages/climate/index.html): Automatize downloading of meteorological and hydrological data from publicly available repositories: OGIMET, University of Wyoming - atmospheric vertical profiling data, and Polish Institute of Meterology and Water Management - National Research Institute. T
@@ -70,15 +68,5 @@ The [Environmetrics](Environmetrics.html): Task View gives an overview of packag
 
   - [rtop](http://cran.rstudio.com/web/packages/rtop/index.html): Interpolation of Data with Variable Spatial Support Geostatistical interpolation of data with irregular spatial support such as runoff related data or data from administrative units.
 
-
-|                 |                                             |
-| --------------- | ------------------------------------------- |
-| **Maintainer:** | Sam Albers, Sam Zipper, Ilaria Prosdocimi   |
-| **Contact:**    | sam.albers at gmail.com                     |
-| **Version:**    | 2021-10-13                                  |
-| **URL:**        | <https://CRAN.R-project.org/view=Hydrology> |
- 
- 
- 
 </div>
  
