@@ -13,13 +13,18 @@ See also [Riccardo Rigon’s excellent list](https://abouthydrology.blogspot.com
 
 If you have any comments or suggestions for additions or improvements for this Task View, go to GitHub and [submit an issue](https://github.com/caemillan/Courses/issues) , or make some changes and [submit a pull request](https://github.com/caemillan/Courses/pulls) . If you can’t contribute on GitHub, [send Carlos Millan an email](mailto:cmillanarancibia@gmail.com) .  If you have another consideration be free to comment it.
 
- ## Courses to begin with Python
+ ## Courses to begin with Python as GIS
  
  - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/): The Geo-Python course teaches you the basic concepts of programming and scientific data analysis using the Python programming language in a format that is easy to learn and understand (no previous programming experience required). Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python. Geo-Python is organized by the [Department of Geosciences and Geography](https://www.helsinki.fi/en/faculty-science/faculty/geosciences-and-geography) at the University of Helsinki.
  
  - [GeoPython-AutoGIS](https://automating-gis-processes.github.io/site/): Automating GIS-processes -course teaches you how to do different GIS-related tasks in Python programming language. Each lesson is a tutorial with specific topic(s) where the aim is to learn how to solve common GIS-related problems and tasks using Python tools. We are using only publicly available data which can be used and downloaded by anyone anywhere. We also provide a computing environment which allows you to instantly start programming and trying out the materials yourself, directly in your browser (no installations needed).
  
-## Data Retrieval
+ ## Mapping your work
+ 
+  - [Geospatial Techniques in R](https://stefanjuenger.github.io/gesis-workshop-geospatial-techniques-R/): When social scientists aim to use geospatial data, they must rely on specialized tools, called Geographic Information Systems (GIS). However, the world of GIS is complicated, since often only foreign software solutions provide a comprehensive collection of available geospatial techniques. Fortunately, nowadays, social scientists can also use the statistical software R as a proper GIS. Thus, this course will teach how to exploit R and apply its geospatial techniques in a social science context. We will learn about the most common data formats, their quirks, and their application. Most importantly, the course will present data sources, how to get the data and wrangle them for further analysis. Central are geospatial operations, such as cropping, aggregating or linking data. Finally, what is of interest for many researchers is creating maps, which is also straightforward in R.
+ 
+
+ ## Data Retrieval
 
 **Hydrological data sources (surface water/groundwater quantity and quality)**
 
