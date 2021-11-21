@@ -17,7 +17,13 @@ If you have any comments or suggestions for additions or improvements for this T
  
  - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/): The Geo-Python course teaches you the basic concepts of programming and scientific data analysis using the Python programming language in a format that is easy to learn and understand (no previous programming experience required). Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python. Geo-Python is organized by the [Department of Geosciences and Geography](https://www.helsinki.fi/en/faculty-science/faculty/geosciences-and-geography) at the University of Helsinki.
  
+ ## Specilized courses with Python
+ - [Use Data for Earth and Environmental Science in Open Source Python](https://www.earthdatascience.org/courses/use-data-open-source-python/): Use Data for Earth and Environmental Science in Open Source Python is an intermediate and multidisciplinary online textbook that addresses major questions in Earth science and teaches students to use the analytical tools necessary to undertake exploration of heterogeneous “big” scientific data.
+This textbook assumes that readers have reviewed the Introduction to Earth Data Science textbook or are familiar with the Python programming language, Jupyter Notebook, and git/GitHub.
+This textbook is designed for the Earth Analytics Python course for the Earth Data Analytics Professional Certificate taught by instructors at CU Boulder.
+ 
  - [GeoPython-AutoGIS](https://automating-gis-processes.github.io/site/): Automating GIS-processes -course teaches you how to do different GIS-related tasks in Python programming language. Each lesson is a tutorial with specific topic(s) where the aim is to learn how to solve common GIS-related problems and tasks using Python tools. We are using only publicly available data which can be used and downloaded by anyone anywhere. We also provide a computing environment which allows you to instantly start programming and trying out the materials yourself, directly in your browser (no installations needed).
+ 
  
  ## Mapping your work
  
