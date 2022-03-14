@@ -1,4 +1,4 @@
-## Courses for improve hydrologyst skills
+## Courses to improve your hydrologyst skills
 
 
 <div>
