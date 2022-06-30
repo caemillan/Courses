@@ -20,6 +20,9 @@ If you have any comments or suggestions for additions or improvements for this T
  - [Introduction to Earth Data Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/):Introduction to Earth Data Science is an online textbook for anyone new to open reproducible science and the Python programming language. There are no prerequisites for this material, and no prior programming knowledge is assumed.
 This textbook is designed for the Earth Analytics Bootcamp for the Earth Data Analytics Professional Certificate taught by instructors at CU Boulder.
  
+ ## Courses to Python as Artificial Intelligence tool
+ - [Getting Started with Machine Learning](https://wp.unil.ch/dawn/getting-started-with-machine-learning/#site-header)
+ 
  ## Specialized courses with Python
  - [Use Data for Earth and Environmental Science in Open Source Python](https://www.earthdatascience.org/courses/use-data-open-source-python/): Use Data for Earth and Environmental Science in Open Source Python is an intermediate and multidisciplinary online textbook that addresses major questions in Earth science and teaches students to use the analytical tools necessary to undertake exploration of heterogeneous “big” scientific data.
 This textbook assumes that readers have reviewed the Introduction to Earth Data Science textbook or are familiar with the Python programming language, Jupyter Notebook, and git/GitHub.
